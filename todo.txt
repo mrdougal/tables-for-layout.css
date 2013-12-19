@@ -1,0 +1,6 @@
+
+Make compatible with 'twitter hoof-strap'
+Angular js directive
+
+      <div ng-col="auto"></div>
+
