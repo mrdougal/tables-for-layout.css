@@ -7,9 +7,9 @@ A modern library for the modern designer.
 
 ##Shim
 
-For controlling space, just use `shim.gif`
+For controlling space, just use the handy `shim`
 For modern browsers, you can optionally use `shim.png`
-For you ultra modern machines, you should use the "retina version" version `shim@2x.png`
+For ultra modern machines, you should use the "retina version" version `shim@2x.png`
 
 
     <img src="assets/shim.gif" height="300px" />
