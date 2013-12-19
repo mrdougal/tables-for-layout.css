@@ -1,0 +1,38 @@
+
+div.table {
+  display: table;
+  margin: 10pt;
+}
+
+div.table .caption {
+	display: table-caption;
+	text-align: center;
+}
+
+div.table .thead, div.table .tbody, div.table .tfoot {
+	/* this space left intentionally blank */
+}
+
+div.table div.tr {
+  display: table-row;
+}
+
+div.table div.tr div.td, div.table div.tr div.th {
+  display: table-cell;
+}
+
+div.th {
+  font-weight: 800;
+}
+
+
+div.table[border] .th, div.table[border] .td {
+  border: 3px ridge; #999;
+}
+
+div.table[cellspacing] .th, div.table[cellspacing] .td {
+  padding: 30px;
+}
+
+
+
